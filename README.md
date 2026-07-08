@@ -5,19 +5,53 @@ An enterprise-grade, closed-loop Safety Instrumented System (SIS) prototype desi
 ---
 
 ## 📸 System Previews
+<details>
+  <summary><b>🖥️ 1. SCADA HMI Dashboard (Click to expand SCADA HMI)</b></summary>
+  <br>
+  Demonstrating the dynamic UI logic, color-coded safety zones, and real-time mathematical calculations:
+  
+  * **Normal Operation (Safe Zone):**
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/50.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/50i.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/50k.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/51.jpeg)
+  
+  * **Warning State (Approaching Limit):**
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/25.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/25i.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/25k.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/70.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/70i.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/70k.jpeg)
+  
+  * **Critical State (Overfill / Empty):**
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/11.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/11i.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/11k.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/90.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/90i.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/90k.jpeg)
 
-### 1. SCADA HMI Dashboard
-![SCADA Interface](link_to_your_scada_image_here.png)
-*Real-time monitoring panel with manual overrides and visual alarms.*
+</details>
 
-### 2. Commercial Shift Accounting (Excel/CSV Log)
-![Commercial Log](link_to_your_excel_log_image_here.png)
-*Automated hourly reporting for enterprise resource planning and shift handover.*
+<details>
+  <summary><b>⚙️ 2. Commercial Shift Accounting- Excel/CSV Log (Click to expand)</b></summary>
 
-### 3. Hardware Prototype Simulation
-![Hardware Setup](link_to_your_hardware_image_here.png)
-*Arduino-based logic controller with analog sensors and visual/audio annunciators.*
+**
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/s.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/sr.jpeg)
 
+</details>
+
+<details>
+  <summary><b>📊 3.Hardware Prototype Simulation (Click to expand)</b></summary>
+  
+**
+    ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/90k.jpeg)
+    ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/data.png)
+    ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/60sec.png)
+
+</details>
 ---
 
 ## 🏭 Industry Context & Problem Statement
