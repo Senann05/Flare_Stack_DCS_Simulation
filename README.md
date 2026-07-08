@@ -5,38 +5,50 @@ An enterprise-grade, closed-loop Safety Instrumented System (SIS) prototype desi
 ---
 
 ## 📸 System Previews
+
 <details open>
-  <summary><b>🖥️ 1. SCADA HMI Dashboard (Click to expand SCADA HMI)</b></summary>
+  <summary><b> 1.📸 Video Presentation (Click to expand)</b></summary>
+  
+**
+    > ![Normal Status](https://github.com/Senann05/Flare_Stack_DCS_Simulation/blob/main/F_S_Images/vid.mp4)
+
+
+
+</details>
+
+<details>
+  <summary><b>🖥️ 2. SCADA HMI Dashboard (Click to expand SCADA HMI)</b></summary>
   <br>
-  Demonstrating the dynamic UI logic, color-coded safety zones, and real-time mathematical calculations:
   
-  * **Normal Operation (Safe Zone):**
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/50.jpeg)
+  * **Normal:**
+    > ![Normal Status](https://github.com/Senann05/Flare_Stack_DCS_Simulation/blob/main/F_S_Images/scada1.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Flare_Stack_DCS_Simulation/blob/main/F_S_Images/normal.jpeg)
 
   
-  * **Warning State (Approaching Limit):**
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/25.jpeg)
-
-  
-  * **Critical State (Overfill / Empty):**
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/11.jpeg)
+  * **Alert:**
+    > ![Normal Status](https://github.com/Senann05/Flare_Stack_DCS_Simulation/blob/main/F_S_Images/alert.jpeg)
+      ![Normal Status](https://github.com/Senann05/Flare_Stack_DCS_Simulation/blob/main/F_S_Images/scada2.jpeg)
 
 </details>
 
 <details>
-  <summary><b>⚙️ 2. Commercial Shift Accounting- Excel/CSV Log (Click to expand)</b></summary>
-
+  <summary><b>⚙️ 3. Commercial Shift Accounting- Excel/CSV Log (Click to expand)</b></summary>
+  
 **
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/s.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Flare_Stack_DCS_Simulation/blob/main/F_S_Images/l%20ex.jpeg)
+    > ![Normal Status](https://github.com/Senann05/Flare_Stack_DCS_Simulation/blob/main/F_S_Images/excel.jpeg)
 
 
 </details>
 
 <details>
-  <summary><b>📊 3.Hardware Prototype Simulation (Click to expand)</b></summary>
+  <summary><b>📊 4.Hardware Prototype Simulation (Click to expand)</b></summary>
   
 **
-    ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/90k.jpeg)
+    ![Normal Status](https://github.com/Senann05/Flare_Stack_DCS_Simulation/blob/main/F_S_Images/sim.jpeg)
+    ![Normal Status](https://github.com/Senann05/Flare_Stack_DCS_Simulation/blob/main/F_S_Images/normal1.jpeg)
+    ![Normal Status](https://github.com/Senann05/Flare_Stack_DCS_Simulation/blob/main/F_S_Images/alert1.jpeg)
+
 
 </details>
 ---
