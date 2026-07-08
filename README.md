@@ -5,32 +5,21 @@ An enterprise-grade, closed-loop Safety Instrumented System (SIS) prototype desi
 ---
 
 ## 📸 System Previews
-<details>
+<details open>
   <summary><b>🖥️ 1. SCADA HMI Dashboard (Click to expand SCADA HMI)</b></summary>
   <br>
   Demonstrating the dynamic UI logic, color-coded safety zones, and real-time mathematical calculations:
   
   * **Normal Operation (Safe Zone):**
     > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/50.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/50i.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/50k.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/51.jpeg)
+
   
   * **Warning State (Approaching Limit):**
     > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/25.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/25i.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/25k.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/70.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/70i.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/70k.jpeg)
+
   
   * **Critical State (Overfill / Empty):**
     > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/11.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/11i.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/11k.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/90.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/90i.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/90k.jpeg)
 
 </details>
 
@@ -39,7 +28,7 @@ An enterprise-grade, closed-loop Safety Instrumented System (SIS) prototype desi
 
 **
     > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/s.jpeg)
-    > ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/sr.jpeg)
+
 
 </details>
 
@@ -48,8 +37,6 @@ An enterprise-grade, closed-loop Safety Instrumented System (SIS) prototype desi
   
 **
     ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/90k.jpeg)
-    ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/data.png)
-    ![Normal Status](https://github.com/Senann05/Industrial-Tank-SCADA-System/blob/main/Images%20(2)/60sec.png)
 
 </details>
 ---
