@@ -10,7 +10,7 @@ An enterprise-grade, closed-loop Safety Instrumented System (SIS) prototype desi
   <summary><b> 1.📸 Video Presentation (Click to expand)</b></summary>
   
 **
-    > ![Normal Status]([https://github.com/Senann05/Flare_Stack_DCS_Simulation/blob/main/F_S_Images/vid.mp4](https://youtu.be/rYOLZfGKNkU))
+    > ![YouTube](https://youtu.be/rYOLZfGKNkU)
 
 
 
