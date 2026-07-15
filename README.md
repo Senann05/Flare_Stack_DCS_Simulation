@@ -10,7 +10,7 @@ An enterprise-grade, closed-loop Safety Instrumented System (SIS) prototype desi
   <summary><b> 1.📸 Video Presentation (Click to expand)</b></summary>
   
 **
-    > ![YouTube](https://youtu.be/rYOLZfGKNkU)
+    >(https://youtu.be/rYOLZfGKNkU)
 
 
 
